@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "513691704482",
+    "project_id": "projects-a637c",
+    "storage_bucket": "projects-a637c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513691704482:android:6902a1c67e42567665cbfb",
+        "android_client_info": {
+          "package_name": "com.example.smart_home_safe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2W1rsM1HeekPU57kTeawtsmtcNdL5MI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
